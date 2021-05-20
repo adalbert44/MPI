@@ -1,0 +1,3 @@
+﻿  PictureBinarization.cpp
+C:\Users\38067\source\repos\PictureBinarization\PictureBinarization\PictureBinarization.cpp(206,35): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  PictureBinarization.vcxproj -> C:\Users\38067\source\repos\PictureBinarization\Debug\PictureBinarization.exe

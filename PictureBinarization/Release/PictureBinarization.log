@@ -1,0 +1,12 @@
+﻿  PictureBinarization.cpp
+C:\Users\38067\source\repos\PictureBinarization\PictureBinarization\PictureBinarization.cpp(39,68): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+C:\Users\38067\source\repos\PictureBinarization\PictureBinarization\PictureBinarization.cpp(139,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\38067\source\repos\PictureBinarization\PictureBinarization\PictureBinarization.cpp(222,67): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+C:\Users\38067\source\repos\PictureBinarization\PictureBinarization\PictureBinarization.cpp(197,17): warning C4101: 'procImage': unreferenced local variable
+C:\Users\38067\source\repos\PictureBinarization\PictureBinarization\PictureBinarization.cpp(198,17): warning C4101: 'procRes': unreferenced local variable
+C:\Users\38067\source\repos\PictureBinarization\PictureBinarization\PictureBinarization.cpp(251,35): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 172 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  PictureBinarization.vcxproj -> C:\Users\38067\source\repos\PictureBinarization\Release\PictureBinarization.exe
